@@ -1,0 +1,12 @@
+:root { font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; }
+body { margin: 0; padding: 24px; background: #fafafa; }
+
+
+.card { padding: 12px; border: 1px solid #ddd; border-radius: 12px; margin: 12px 0; background: #fff; }
+.panel { margin: 8px 0; }
+
+
+.profile-card { padding: 12px; border-radius: 12px; margin-bottom: 12px; }
+.theme-light { background: #f7f7f7; color: #000; }
+.theme-dark { background: #1f1f1f; color: #fff; }
+.profile-avatar { border-radius: 50%; display: block; margin-bottom: 8px; }
